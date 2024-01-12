@@ -4,8 +4,7 @@
 
 Nous pouvons trouver notre machine cible avec netdiscover :
 
-![](media/image1.png){width="5.222490157480315in"
-height="5.548896544181977in"}
+![](media/image1.png){width="5.222490157480315in" height="5.548896544181977in"}
 
 Ici notre voisin qui héberge kioptrix utilise vmware qui est la seule
 machine découverte par netdiscover
